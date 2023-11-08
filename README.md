@@ -1,1 +1,1 @@
-# coding-project-template
+# Book review application with Express and Node.js
